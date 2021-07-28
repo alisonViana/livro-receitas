@@ -2,8 +2,8 @@
 
 ## Ingredientes
 
- * 1 Leite condensado (lata ou caixinha)
- * 3 colheres (sopa) de Chocolate em Pó
+ * 1 leite condensado (lata ou caixinha)
+ * 3 colheres (sopa) de chocolate em pó
  * 1 colher (sopa) de manteiga
  * 1 xícara (chá) de chocolate granulado
 
