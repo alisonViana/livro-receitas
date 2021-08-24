@@ -12,4 +12,5 @@ O objetivo desse repositório é conhecer e aprender a usar o Git e o GitHub par
 
  * Brigadeiro
  * Beijinho
+ * Brigadeiro Mix
 
