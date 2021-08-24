@@ -1,7 +1,6 @@
 # Brigadeiro :chocolate_bar:
 
 
-
 ## Ingredientes
 
 * 1 leite condensado (lata ou caixinha) 395g
