@@ -11,6 +11,6 @@ O objetivo desse repositório é explorar e aprender a usar o Git e o GitHub par
 
  * [Brigadeiro](Receitas/Brigadeiro.md)
  * [Beijinho](Receitas/Beijinho.md)
- * [Brigadeiro Mix](Receitas/Brigadeiro Mix.md)
- * [Bolo de Cenoura com Cobertura de Brigadeiro](Receitas/Bolo de Cenoura com Cobertura de Brigadeiro.md)
+ * [Brigadeiro Mix](Receitas/Brigadeiro%20Mix.md)
+ * [Bolo de Cenoura com Cobertura de Brigadeiro](Receitas/Bolo%20de%20Cenoura%20com%20Cobertura%20de%20Brigadeiro.md)
 
