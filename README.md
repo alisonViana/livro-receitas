@@ -12,4 +12,5 @@ O objetivo desse repositório é explorar e aprender a usar o Git e o GitHub par
  * Brigadeiro
  * Beijinho
  * Brigadeiro Mix
+ * Bolo de Cenoura com Cobertura de Brigadeiro
 
