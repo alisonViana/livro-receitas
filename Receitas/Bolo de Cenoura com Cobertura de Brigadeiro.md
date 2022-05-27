@@ -1,4 +1,4 @@
-# Bolo de Cenoura com Cobertura de Brigadeiro
+# Bolo de Cenoura com Cobertura de Brigadeiro :carrot:
 
 
 ## Ingredientes
@@ -38,4 +38,3 @@
 5. Em uma panela coloque o Leite MOÇA, o Chocolate em Pó DOIS FRADES e a manteiga e leve ao fogo baixo, mexendo sempre, até começar a desprender da panela.
 
 6. Despeje ainda quente sobre o bolo, distribua o chocolate granulado e deixe esfriar.
-
